@@ -1,5 +1,5 @@
 ---
-date: 2025-27-02 21:11:00 +0530
+date: 2025-02-27 21:11:00 +0530
 slug: cachewiper-pro
 title: "CacheWiper Pro"
 # web: "https://kizie.co"
